@@ -1,0 +1,8 @@
+@use "variables";
+@use "relouteStyle";
+
+
+
+h1{
+    color: variables.$redColor;
+}
